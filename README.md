@@ -1,3 +1,3 @@
 # fruit
 
-Simple app exploring the setstate() function
+Simple app exploring the setstate() function in flutter.
